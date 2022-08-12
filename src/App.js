@@ -1,4 +1,7 @@
+import log from './utils/logger'
+import vars from "./utils/config";
 import logo from './logo.svg';
+import { CometChat } from "@cometchat-pro/chat";
 import './App.css';
 
 function App() {
